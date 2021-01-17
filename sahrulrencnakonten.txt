@@ -1,8 +1,10 @@
 - belajar php
 *ci3
 *ci4
-*laravel
+*Laravel
+- struktur data fundamental
 - belajar js
-*vue
 *react js
+*vue js
 - belajar wordpress
+-pyton
