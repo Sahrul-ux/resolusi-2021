@@ -1,5 +1,6 @@
 - belajar php
 *ci3
 *ci4
+- struktur data fundamental
 - belajar js
 - belajar wordpress
